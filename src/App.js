@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import Home from './component/Home';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-//import About from './component/About';
 // import ToDoList from './component/ToDoList';
 import Meditation from './component/Meditation';
 import Game from './component/Game';
@@ -15,7 +14,6 @@ function App() {
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* <Route path="/about" element={<About />} /> */}
           {/* <Route path="/taskwhiz/signup" element={<ToDoList />} /> */}
           <Route path="/meditation" element={<Meditation />} />
           <Route path="/sbgame" element={<Game />} />
