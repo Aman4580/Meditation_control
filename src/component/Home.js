@@ -32,6 +32,7 @@ function Home() {
               </a>
               <p>
                 A stressful work environment can contribute to problems such as headache, stomachache, sleep disturbances, short temper, and difficulty concentrating. Our engineer productivity tool is a comprehensive solution designed to help engineers achieve optimal productivity while maintaining their mental and emotional well-being. This platform enables users to track task completion, practice AR meditation, play stress burster games, and engage in motivational exercises to cope with stress and anxiety at work.
+                
               </p>
             </div>
           </div>
